@@ -19,3 +19,6 @@ Une fois la fonctionnalité terminée, le dev fait :
 git checkout develop
 git pull
 git merge
+```
+
+C'est alors au dev de régler les éventuels conflits relevant de l'intégration de son code dans la branche develop, référentiel commun.
