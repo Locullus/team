@@ -5,3 +5,7 @@ Le projet a été cloné sur le PC.
 J'ajoute ce fichier pour tester progressivement l'intégration sur main sans créer de conflits.
 
 On va s'attacher à toujours développer sur une branche feature.
+
+## commit de dimanche 14:28
+
+On teste une modification pour faire une PR et vérifier qu'elle peut être tirée une faois validée depuis une branche autre que main sur un autre compte
