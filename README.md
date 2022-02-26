@@ -1,2 +1,9 @@
-<link rel="stylesheet" href="{{ asset('css/style.css') }}">
-        <script src="{{ asset('js/app.js') }}" defer></script>
+<div class="navbar">
+            <div id="category">
+                <button class="categories">cinema</button>
+                <button class="categories">conference</button>
+                <button class="categories">theatre</button>
+                <button class="categories">loisirs</button>
+                <button class="categories">evenementiel</button>
+            </div>
+        </div>
