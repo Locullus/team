@@ -1,18 +1,2 @@
-.navbar {
-    width: 800px;
-}
-
-#category {
-    display: flex;
-    justify-content: space-around;
-}
-
-.categories {
-    background-color: #7bd19c;
-    color: white;
-    border-radius: 10px;
-}
-
-.categories.active {
-    background-color: #19b455;
-}
+<link rel="stylesheet" href="{{ asset('css/style.css') }}">
+        <script src="{{ asset('js/app.js') }}" defer></script>
